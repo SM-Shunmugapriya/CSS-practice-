@@ -1,0 +1,7 @@
+div{
+    width:200px;
+    height:200px;
+    border: 1px dashed hotpink;
+    background-color: RGBA(255,192,203,0.45);
+    border-radius:30px 15px 25px 50px;
+}
