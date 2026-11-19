@@ -1,0 +1,20 @@
+.clothing {
+    float:left;
+    width:350px;
+    height:500px;
+    margin:70px auto;
+    margin-left:200px;
+    padding:40px;
+    border: 1px solid #ccc;
+    border-radius:10px;
+    box-shadow: 8px 8px 8px -5px rgpa(0,0,0,.3);
+
+}
+.button{
+    border-radius:5px;
+    box-shadow:0 0 2px rgpa(0,0,0,0.5);
+}
+
+h2{
+    text-align:center;
+}
